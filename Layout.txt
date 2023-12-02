@@ -1,0 +1,10 @@
+descriptor-1:	sex				
+descriptor-2:	genotype				
+descriptor-3:	drug				
+monitor	vial	descriptor-1	descriptor-2	descriptor-3	descriptor-n
+10	1	male	knockout	drug	
+10	2				
+10	3	female	wt	vehicle	
+39	1	male	knockout	vehicle	
+39	2	female	wt	drug	
+39	3				
