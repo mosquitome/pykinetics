@@ -1,0 +1,6 @@
+python v3.8.11
+numpy v1.20.3
+pandas v1.3.1
+scipy v1.6.2
+matplotlib v3.7.1
+seaborn v0.12.2

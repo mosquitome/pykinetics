@@ -1,0 +1,5 @@
+1. Possible issues with environmental monitor assignment or alignment of data with environmental data?
+2. Possible issues with data flags (51 etc.)
+3. Combine little inter-function lines (e.g. 'monitors = find_monitors()') into one main() function, and move all functions to their own file.
+4. Work on better activity function that calculates sleep (see "Insominia" paper).
+5. Work on function that gives proper stats on period etc.
